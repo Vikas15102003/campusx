@@ -59,7 +59,3 @@ print(random.randint(1,100))
 
 import datetime
 print(datetime.datetime.now())'''
-
-# Loops In Python 
-''' 1) While
-    2) for '''
