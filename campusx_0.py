@@ -13,11 +13,20 @@ else:
 
 # Q2. Ek number lo — even hai ya odd check karo.
 
-num = int(input("Enter Any Number"))
+'''num = int(input("Enter Any Number"))
 if num%2==0:
     print("Number is Even")
 else:
-    print("Number is odd")
+    print("Number is odd")'''
+
+# Q3. Teen numbers lo — sabse bada kaunsa hai print karo.
+a, b, c = 40, 22, 60
+if a > b and a > c:
+    print("A is Grater then B and C")
+elif b > a and b > c:
+    print("B is grater then A and C")
+else:
+    print("C grater then A and B")
 # Loops In Python 
 ''' 1) While
     2) for '''
