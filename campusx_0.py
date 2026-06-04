@@ -5,7 +5,7 @@
 
 num = int(input("Enter Number and Check the number Positive or Nigative"))
 if num<0:
-    print("Number is Nigative")
+    print("Number is Negative")
 elif num>0:
     print("Number is Positive")
 else:
