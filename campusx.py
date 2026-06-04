@@ -1,5 +1,5 @@
 # Day 1 - Basic Python
-'''name = "Vikas"
+name = "Vikas"
 age = 22
 
 print("My Name Is", name)
@@ -58,4 +58,4 @@ import random
 print(random.randint(1,100))
 
 import datetime
-print(datetime.datetime.now())'''
+print(datetime.datetime.now())
